@@ -22,7 +22,7 @@ A native Android application developed using Android Studio to simplify blood do
 - Java
 - XML
 - Firebase 
-- SQLite 
+
 
 ---
 
@@ -37,6 +37,10 @@ A native Android application developed using Android Studio to simplify blood do
 - Blood Request Screen
 
 ---
+
+## Backend
+
+This application uses Firebase Authentication and Firebase Realtime Database for user management and data storage.
 
 ## 📦 Installation
 
