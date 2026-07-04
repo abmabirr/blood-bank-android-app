@@ -1,3 +1,8 @@
+## 📥 Download APK
+
+Download the latest version from the **Releases** section.
+
+👉 https://github.com/abmabirr/blood-bank-management-app/releases/latest
 # 🩸 Blood Bank Management App
 
 A native Android application developed using Android Studio to simplify blood donation and blood request management. The app helps connect blood donors with recipients through a simple and user-friendly interface.
